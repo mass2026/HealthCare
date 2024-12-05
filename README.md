@@ -1,1 +1,2 @@
 # HealthCare
+A comprehensive healthcare platform designed to provide users with access to essential medical services. Features include online appointment booking, medicine ordering, health article resources, and more. The goal is to enhance accessibility and convenience in healthcare management.
